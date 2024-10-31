@@ -1,5 +1,5 @@
 ---
-title: First weekly post
+title: Second weekly post
 date: 2024-10-19
 ---
 
