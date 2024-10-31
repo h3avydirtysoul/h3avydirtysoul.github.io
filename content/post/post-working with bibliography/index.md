@@ -3,8 +3,6 @@ title: Working with bibliography
 date: 2024-10-31
 ---
 
-# Working with a bibliography
-
 ## Introduction
 Working with a bibliography is a necessary part of any academic research. Not only does it support your arguments and references to existing works, but it also demonstrates knowledge of the topic and helps readers better understand the context of the study. A well-formatted bibliography simplifies further research and ensures academic integrity.
 
