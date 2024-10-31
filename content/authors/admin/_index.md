@@ -3,7 +3,7 @@
 title: Timur Andeevich Darizhapov
 
 # Name pronunciation (optional)
-name_pronunciation: Timur Andeevich Darizhapov
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Timur
@@ -20,51 +20,57 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: RUDN University
+    url: https://www.rudn.ru/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:timaanddar@mail.ru'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/heavytim
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/h3avydirtysoul
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0009-0007-6496-609X/
+  - icon: assets/media/icons/arxiv
+    url: https://arxiv.org/user/
+  - icon: assets/media/icons/mendeley
+    url: https://www.mendeley.com/search/
+
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Probability Theory and Mathematical Statistics
+  - Queuing Theory
+  - Geography
+  - History
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Bachelor of Applied Mathematics and Computer Science
+    institution: RUDN University
+    date_start: 2020-08-24
+    date_end: 2024-07-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master of Applied Mathematics and Computer Science
+    institution: RUDN University
+    date_start: 2024-08-01
+    date_end: 2026-07-01
     summary: |
       GPA: 3.8/4.0
 
@@ -72,10 +78,10 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Professional retraining "Translator"
+    institution: RUDN University
+    date_start: 2020-08-24
+    date_end: 2024-04-22
     summary: |
       GPA: 3.4/4.0
       
@@ -84,28 +90,15 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Sales Consultant
+    company_name: Colin's
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2021-10-03
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Communication with people, attracting clients
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -114,13 +107,13 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 50
         icon: code-bracket
-      - name: Data Science
+      - name: Cybersecurity
         description: ''
-        percent: 100
+        percent: 25
         icon: chart-bar
-      - name: SQL
+      - name: Linux
         description: ''
         percent: 40
         icon: circle-stack
@@ -128,59 +121,41 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Football
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Walking
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: 
+      - name: Computer Games
         description: ''
         percent: 80
         icon: camera
 
 languages:
   - name: English
+    percent: 50
+  - name: Russian
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: French
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Praise
+    url: 
+    date: '2024-10-19'
+    awarder: Mom
+    icon: 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      My mother praised me. This is the best reward in life!
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Darizhapov Timur Andreevich is a master's student at RUDN. Group NPMmd-02-24.
