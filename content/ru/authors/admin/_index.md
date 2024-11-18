@@ -45,8 +45,6 @@ profiles:
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/my-orcid?orcid=0009-0007-6496-609X/
-  - icon: custom/arxiv
-    url: https://arxiv.org/user/
 
 
 interests:
