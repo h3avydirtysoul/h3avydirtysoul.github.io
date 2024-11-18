@@ -47,8 +47,6 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0009-0007-6496-609X/
   - icon: custom/arxiv
     url: https://arxiv.org/user/
-  - icon: custom/mendeley
-    url: https://www.mendeley.com/search/
 
 
 interests:
